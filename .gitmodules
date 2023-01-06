@@ -1,0 +1,6 @@
+[submodule "Go-Chat-Client"]
+	path = Go-Chat-Client
+	url = https://github.com/James-T-Ardian/Go-Chat-Client
+[submodule "Go-Chat-Server"]
+	path = Go-Chat-Server
+	url = https://github.com/James-T-Ardian/Go-Chat-Server
