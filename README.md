@@ -9,3 +9,4 @@ How to run locally:
 3. Now you need two terminals, on one you run "cd Go-Chat-Server ; go run main.go"
 4. On the other terminal you run "cd Go-Chat-Client ; npm install ; npm run start"
 5. Go to http://localhost:3000/
+6. You can test the functionality of Go-Chat by having multiple tabs of http://localhost:3000/ joining the same room and sending messages to one another
