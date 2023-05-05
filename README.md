@@ -1,5 +1,4 @@
 # Go-Chat
-Repository that contains submodules that make up the Go-Chat website.
 Go-Chat is a websocket chat application written in Typescript (Frontend, found in Go-Chat-Client directory) and Golang (Backend, found in Go-Chat-Server directory).
 
 How to run locally: 
