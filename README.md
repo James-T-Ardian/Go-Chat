@@ -8,3 +8,7 @@ How to run locally:
 4. Open Go-Chat-Client directory as root in a separate IDE (Preferably VSCode) window and run "npm install" then "npm run start" in the root terminal
 5. Go to http://localhost:3000/
 6. You can test the functionality of Go-Chat by having multiple tabs of http://localhost:3000/ joining the same room and sending messages to one another
+
+Here is a gif that showcases the application: 
+
+![screen-gif](./go-chat-demo.gif
