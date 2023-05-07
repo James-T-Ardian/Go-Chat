@@ -11,4 +11,4 @@ How to run locally:
 
 Here is a gif that showcases the application: 
 
-![screen-gif](./go-chat-demo.gif
+![screen-gif](./go-chat-demo.gif)
