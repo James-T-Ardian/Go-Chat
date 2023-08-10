@@ -1,5 +1,5 @@
 # Go-Chat
-Go-Chat is a websocket chat application written which has a frontend written in Typescript using ReactJS (found in Go-Chat-Client directory) and Golang (Backend, found in Go-Chat-Server directory).
+Go-Chat is a websocket chat application which has a frontend written in Typescript using ReactJS (found in Go-Chat-Client directory) and Golang (found in Go-Chat-Server directory).
 
 How to run locally: 
 1. Make sure you have the appropriate versions for golang (1.18), npm (^8.3.1), and node (^18.12.1)
